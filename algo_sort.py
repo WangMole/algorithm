@@ -21,4 +21,5 @@ arr = [7,15,24,35,88,6,23]
 n = len(arr)
 quickSort(arr, 0, n-1)
 print(arr)
+print(arr)
 
